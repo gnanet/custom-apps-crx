@@ -1,0 +1,12 @@
+{
+ "manifest_version": 2,
+ "name": "ErsteLakossági",
+ "description": "Erste Lakossági Netbank",
+ "icons": { "128": "erstenetbank-icon-128.png" },
+ "app": {
+    "urls": [ "https://netbank.erstebank.hu/lakossagi" ],
+    "launch": { "web_url": "https://netbank.erstebank.hu/lakossagi" }
+  },
+ "offline_enabled": false,
+ "version": "1.1"
+}
